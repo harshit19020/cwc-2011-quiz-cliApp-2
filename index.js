@@ -18,6 +18,10 @@ var question = [
     a : "sachin tendulkar"
   },
   {
+    q : "who took highest wickets for india in wc ?",
+    a : "zaheer khan"
+  },
+  {
     q : "who was the captain of india  ",
     a : "ms dhoni"
   }];
